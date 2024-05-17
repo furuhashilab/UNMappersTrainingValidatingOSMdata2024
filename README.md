@@ -16,3 +16,5 @@
 * [プロジェクト管理は以下のKanban方式プロジェクトで行います。](https://github.com/orgs/furuhashilab/projects/32)
 https://github.com/orgs/furuhashilab/projects/32
 * 問題が発生した場合は[Issues](https://github.com/furuhashilab/UNMappersTrainingValidatingOSMdata2024/issues)に報告すること
+* オンラインレクチャーの動画アーカイブは [ここ](https://drive.google.com/drive/u/0/folders/1tcTesKug-n3E2IQR9Fp98IFp5Jldsq5-) にも保存してあります。
+
