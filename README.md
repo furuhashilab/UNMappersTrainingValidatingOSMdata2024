@@ -10,3 +10,9 @@
 * [ ] JOSM使いになる
 * [ ] Validator としての実績を増やす
 * [ ] "Open Mapping towards Sustainable Development Goals" の日本語版を完成させる（YouthMappersAGUのみ）
+
+
+## 2. 関連情報
+* [プロジェクト管理は以下のKanban方式プロジェクトで行います。](https://github.com/orgs/furuhashilab/projects/32)
+https://github.com/orgs/furuhashilab/projects/32
+* 問題が発生した場合は[Issues](https://github.com/furuhashilab/UNMappersTrainingValidatingOSMdata2024/issues)に報告すること
